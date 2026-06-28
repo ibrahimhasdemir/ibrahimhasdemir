@@ -1,4 +1,4 @@
-Hi there!I'm İbrahim Hasdemir 👋
+-## Hi there!I'm İbrahim Hasdemir 👋
 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning react
