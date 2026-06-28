@@ -1,7 +1,4 @@
-### Hi there!I'm İbrahim Hasdemir 👋
-
-
-**ibrahimhasdemir/ibrahimhasdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there!I'm İbrahim Hasdemir 👋
 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning react
