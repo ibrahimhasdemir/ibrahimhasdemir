@@ -1,4 +1,4 @@
-Hi there! I'm İbrahim Hasdemir 👋
+👋Hi there! I'm İbrahim Hasdemir, 
 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning react
@@ -8,5 +8,9 @@ Hi there! I'm İbrahim Hasdemir 👋
 - 📫 How to reach me: hsdmr.55@gmail.com
 
 - ⚡ Fun fact: html-css-bootstrap-saas-javascript-react
--->### 🛠️ Kullandığım Programlama Dilleri & Teknolojiler
-
+-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
