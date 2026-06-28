@@ -9,5 +9,5 @@
 
 - ⚡ Fun fact: html-css-bootstrap-saas-javascript-react
 -->
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/8900d860-178f-4654-b5f0-4dbde820e19f" />
+
 
