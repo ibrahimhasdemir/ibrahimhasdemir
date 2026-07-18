@@ -12,11 +12,6 @@
 
 # 👋 Hi, I'm İbrahim Hasdemir!
 
-<p align="left">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Focus">
-</p>
-
 I am a **Front-End Developer** deeply focused on continuous learning and self-improvement. I love building user-friendly, dynamic, and aesthetic interfaces using modern web technologies.
 
 Currently, I am actively working on front-end projects, deepening my knowledge in the **React** ecosystem, and developing modern web applications. Believing that there is always room for improvement in technology, I constantly research and learn new methods to enhance my code quality. I am always ready to collaborate with other developers on creative, innovative, and open-source projects.
@@ -26,27 +21,13 @@ Currently, I am actively working on front-end projects, deepening my knowledge i
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Bootstrap" />
+  <img src="https://shields.io" alt="Sass" />
+  <img src="https://shields.io" alt="Git" />
 </p>
 
 ---
