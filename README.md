@@ -20,16 +20,7 @@ Currently, I am actively working on front-end projects, deepening my knowledge i
 
 ### 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Bootstrap" />
-  <img src="https://shields.io" alt="Sass" />
-  <img src="https://shields.io" alt="Git" />
-</p>
-
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Bootstrap](https://shields.io) ![Sass](https://shields.io) ![Git](https://shields.io)
 ---
 
 ### 📬 Contact & Fun Fact
