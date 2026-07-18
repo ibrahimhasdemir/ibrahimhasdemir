@@ -10,40 +10,50 @@
 - ⚡ Fun fact: html-css-bootstrap-saas-javascript-react
 -->
 
-# 👋 Merhaba, Ben İbrahim Hasdemir!
+# 👋 Hi, I'm İbrahim Hasdemir!
 
-Sürekli öğrenmeye ve kendimi geliştirmeye odaklanmış bir **Front-End Geliştiriciyim**. Modern web teknolojilerini kullanarak kullanıcı dostu, dinamik ve estetik arayüzler inşa etmekten keyif alıyorum. 
+<p align="left">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Focus">
+</p>
 
-Şu anda aktif olarak front-end projeleri üzerinde çalışıyor ve kendimi **React** ekosisteminde derinleştirmeye, modern web uygulamaları geliştirmeye odaklıyorum. Teknolojide her zaman "daha iyisi" olduğuna inanıyor, kod kalitemi artırmak için sürekli araştırıyor ve yeni yöntemler öğreniyorum. Yaratıcı, yenilikçi ve açık kaynaklı projelerde diğer geliştiricilerle işbirliği yapmaya her zaman hazırım.
+I am a **Front-End Developer** deeply focused on continuous learning and self-improvement. I love building user-friendly, dynamic, and aesthetic interfaces using modern web technologies.
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
+Currently, I am actively working on front-end projects, deepening my knowledge in the **React** ecosystem, and developing modern web applications. Believing that there is always room for improvement in technology, I constantly research and learn new methods to enhance my code quality. I am always ready to collaborate with other developers on creative, innovative, and open-source projects.
+
+---
+
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" alt="react" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="bootstrap" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="sass" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="sass" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
   </a>
 </p>
 
-### 📬 İletişim & Eğlenceli Bilgi
+---
 
-Web geliştirme, teknoloji dünyası veya potansiyel projeler hakkında konuşmak için bana her zaman [hsdmr.55@gmail.com](mailto:hsdmr.55@gmail.com) e-posta adresinden ulaşabilirsiniz. 
+### 📬 Contact & Fun Fact
 
-Küçük bir eğlenceli bilgi: Tasarımdan koda giden yolculuğumda `HTML` ve `CSS` ile başlayan serüvenim, bugün `React` ile çok daha dinamik ve heyecanlı bir boyutta devam ediyor.
+* 📧 **Email:** [hsdmr.55@gmail.com](mailto:hsdmr.55@gmail.com)
+* 💼 Feel free to reach out to me anytime to discuss web development, the tech world, or potential projects.
+* ⚡ **Fun Fact:** My journey from design to code started with `HTML` and `CSS`, and today it continues on a much more dynamic and exciting level with `React`.
+
