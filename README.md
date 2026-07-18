@@ -20,7 +20,11 @@ Currently, I am actively working on front-end projects, deepening my knowledge i
 
 ### 🛠️ Technologies & Tools
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Bootstrap](https://shields.io) ![Sass](https://shields.io) ![Git](https://shields.io)
+* 🌐 **HTML5 & CSS3** - Responsive & semantic layouts
+* ⚡ **JavaScript** - Core logic & dynamic programming
+* ⚛️ **React** - Modern UI development & component architecture
+* 🎨 **Bootstrap & Sass** - Advanced styling & rapid prototyping
+* 📦 **Git** - Version control & workflow management
 ---
 
 ### 📬 Contact & Fun Fact
