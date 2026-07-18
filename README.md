@@ -44,6 +44,6 @@ Sürekli öğrenmeye ve kendimi geliştirmeye odaklanmış bir **Front-End Geli�
 
 ### 📬 İletişim & Eğlenceli Bilgi
 
-Web geliştirme, teknoloji dünyası veya potansiyel projeler hakkında konuşmak için bana her zaman [hsdmr.55@gmail.com](mailto:hsdmr.55@gmail.com) e-posta adresinden ulaşabilirsiniz. Kafanıza takılan her şeyi çekinmeden sorabilirsiniz! 
+Web geliştirme, teknoloji dünyası veya potansiyel projeler hakkında konuşmak için bana her zaman [hsdmr.55@gmail.com](mailto:hsdmr.55@gmail.com) e-posta adresinden ulaşabilirsiniz. 
 
 Küçük bir eğlenceli bilgi: Tasarımdan koda giden yolculuğumda `HTML` ve `CSS` ile başlayan serüvenim, bugün `React` ile çok daha dinamik ve heyecanlı bir boyutta devam ediyor.
