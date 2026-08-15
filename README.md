@@ -13,9 +13,6 @@ Currently, I am actively working on front-end projects, deepening my knowledge i
 * ⚛️ **React** - Modern UI development & component architecture
 * 🎨 **Bootstrap & Sass** - Advanced styling & rapid prototyping
 * 📦 **Git** - Version control & workflow management
-* <a target="blank" href="https://verified.sertifier.com/en/verify/23045347377946/?ref=email">
-		<img src="https://storage.googleapis.com/verified-storage/cert/23045347377946.png" alt="">
-	  </a>
 ---
 
 ### 📬 Contact & Fun Fact
