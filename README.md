@@ -13,7 +13,8 @@ Currently, I am actively working on front-end projects, deepening my knowledge i
 * ⚛️ **React** - Modern UI development & component architecture
 * 🎨 **Bootstrap & Sass** - Advanced styling & rapid prototyping
 * 📦 **Git** - Version control & workflow management
----<img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/79f4eb2c-0fe0-417a-a309-633345ca449a" />
+---
+<img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/79f4eb2c-0fe0-417a-a309-633345ca449a" />
 
 
 ### 📬 Contact & Fun Fact
